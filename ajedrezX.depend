@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1349338688 source:e:\archivos personales\documentos codeblok\ajedrezx\botones.cpp
+	"Botones.h"
+
+1349315759 e:\archivos personales\documentos codeblok\ajedrezx\botones.h
+	<windows.h>
+
+1349638792 source:e:\archivos personales\documentos codeblok\ajedrezx\grafo.cpp
+	"Grafo.h"
+	"Ajedrez.h"
+	<iostream>
+
+1349631921 e:\archivos personales\documentos codeblok\ajedrezx\grafo.h
+
+1380770617 e:\archivos personales\documentos codeblok\ajedrezx\ajedrez.h
+	"Grafo.h"
+	"Botones.h"
+	<windows.h>
+
+1380770858 source:e:\archivos personales\documentos codeblok\ajedrezx\ventana.cpp
+	"Ventana.h"
+	"Botones.h"
+	"Grafo.h"
+	"Ajedrez.h"
+
+1318892652 e:\archivos personales\documentos codeblok\ajedrezx\ventana.h
+	<windows.h>
+	"Botones.h"
+
+1349338515 source:e:\archivos personales\documentos codeblok\ajedrezx\main.cpp
+	"Ventana.h"
+
+1380770640 source:e:\archivos personales\documentos codeblok\ajedrezx\ajedrez.cpp
+	"Ajedrez.h"
+	"Botones.h"
+
+1380767889 e:\archivos personales\documentos codeblok\ajedrezx\hilo.h
+	<windows.h>
+	"Ajedrez.h"
+
+1352780809 source:e:\archivos personales\documentos codeblok\ajedrezx\hilo.cpp
+	"Hilo.h"
+
